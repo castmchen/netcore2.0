@@ -1,0 +1,134 @@
+11/1/2018 4:06:04 AM 0 Information User profile is available. Using 'C:\Users\qiang.c.chen\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+11/1/2018 4:06:12 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/  
+11/1/2018 4:06:13 AM 1 Information Executing action method TicTacToe.Controllers.HomeController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:06:18 AM 1 Information Executing ViewResult, running view at path /Views/Home/Index.cshtml.
+11/1/2018 4:06:20 AM 2 Information Executed action TicTacToe.Controllers.HomeController.Index (TicTacToe) in 7486.1014ms
+11/1/2018 4:06:20 AM 2 Information Request finished in 7999.0096ms 200 text/html; charset=utf-8
+11/1/2018 4:06:20 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/lib/bootstrap/dist/css/bootstrap.css  
+11/1/2018 4:06:20 AM 2 Information Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+11/1/2018 4:06:21 AM 2 Information Request finished in 37.2744ms 200 text/css
+11/1/2018 4:06:21 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/css/site.css  
+11/1/2018 4:06:21 AM 2 Information Sending file. Request path: '/css/site.css'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\css\site.css'
+11/1/2018 4:06:21 AM 2 Information Request finished in 10.4639ms 200 text/css
+11/1/2018 4:06:21 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/lib/jquery/dist/jquery.js  
+11/1/2018 4:06:21 AM 2 Information Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\lib\jquery\dist\jquery.js'
+11/1/2018 4:06:21 AM 2 Information Request finished in 130.4735ms 200 application/javascript
+11/1/2018 4:06:21 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/lib/bootstrap/dist/js/bootstrap.js  
+11/1/2018 4:06:21 AM 2 Information Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+11/1/2018 4:06:21 AM 2 Information Request finished in 25.7106ms 200 application/javascript
+11/1/2018 4:06:21 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/js/site.js?v=21IBpBbqppOF8rdDufr6qdLtynLNd_8poj8ypvvI_Wk  
+11/1/2018 4:06:21 AM 2 Information Sending file. Request path: '/js/site.js'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\js\site.js'
+11/1/2018 4:06:21 AM 2 Information Request finished in 7.8616ms 200 application/javascript
+11/1/2018 4:06:22 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/favicon.ico  
+11/1/2018 4:06:22 AM 2 Information Request finished in 7.7355ms 404 text/plain
+11/1/2018 4:06:32 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/Home/SetCulture?culture=EN  
+11/1/2018 4:06:32 AM 1 Information Executing action method TicTacToe.Controllers.HomeController.SetCulture (TicTacToe) with arguments (EN) - ModelState is Valid
+11/1/2018 4:06:32 AM 1 Information Executing RedirectResult, redirecting to /.
+11/1/2018 4:06:32 AM 2 Information Executed action TicTacToe.Controllers.HomeController.SetCulture (TicTacToe) in 44.1751ms
+11/1/2018 4:06:32 AM 3 Information Session started; Key:882fc83d-1e44-9f5c-2316-e3cd1904ce6d, Id:79964c54-53d1-1fbe-efc1-2933fb2eb764
+11/1/2018 4:06:32 AM 2 Information Request finished in 97.8056ms 302 
+11/1/2018 4:06:33 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/  
+11/1/2018 4:06:33 AM 1 Information Executing action method TicTacToe.Controllers.HomeController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:06:33 AM 1 Information Executing ViewResult, running view at path /Views/Home/Index.cshtml.
+11/1/2018 4:06:33 AM 2 Information Executed action TicTacToe.Controllers.HomeController.Index (TicTacToe) in 36.082ms
+11/1/2018 4:06:33 AM 2 Information Request finished in 52.159ms 200 text/html; charset=utf-8
+11/1/2018 4:06:55 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/lib/bootstrap/dist/css/bootstrap.css.map  
+11/1/2018 4:06:55 AM 2 Information Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css.map'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map'
+11/1/2018 4:06:55 AM 2 Information Request finished in 63.4661ms 200 text/plain
+11/1/2018 4:07:40 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/UserRegistration  
+11/1/2018 4:07:41 AM 1 Information Executing action method TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:07:41 AM 1 Information Executing ViewResult, running view at path /Views/UserRegistration/Index.cshtml.
+11/1/2018 4:07:41 AM 2 Information Executed action TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) in 929.2835ms
+11/1/2018 4:07:41 AM 2 Information Request finished in 991.51ms 200 text/html; charset=utf-8
+11/1/2018 4:07:42 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/js/site.js?v=21IBpBbqppOF8rdDufr6qdLtynLNd_8poj8ypvvI_Wk  
+11/1/2018 4:07:42 AM 2 Information Sending file. Request path: '/js/site.js'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\js\site.js'
+11/1/2018 4:07:42 AM 2 Information Request finished in 12.3367ms 200 application/javascript
+11/1/2018 4:07:50 AM 1 Information Request starting HTTP/1.1 POST http://localhost:59928/UserRegistration application/x-www-form-urlencoded 259
+11/1/2018 4:07:50 AM 1 Information Executing action method TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:07:50 AM 14 Warning User (null) password validation failed: PasswordRequiresLower.
+11/1/2018 4:07:50 AM 1 Information Executing RedirectResult, redirecting to /UserRegistration/EmailConfirmation?Email=chenqiang_590@163.com.
+11/1/2018 4:07:50 AM 2 Information Executed action TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) in 59.8998ms
+11/1/2018 4:07:50 AM 2 Information Request finished in 92.5508ms 302 
+11/1/2018 4:07:50 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/UserRegistration/EmailConfirmation?Email=chenqiang_590@163.com  
+11/1/2018 4:07:50 AM 1 Information Executing action method TicTacToe.Controllers.UserRegistrationController.EmailConfirmation (TicTacToe) with arguments (chenqiang_590@163.com) - ModelState is Valid
+11/1/2018 4:07:50 AM 0 Information ##Start## Email confirmation process for chenqiang_590@163.com
+11/1/2018 4:07:50 AM 2 Information Executed action TicTacToe.Controllers.UserRegistrationController.EmailConfirmation (TicTacToe) in 80.5256ms
+11/1/2018 4:07:50 AM 0 Error An unhandled exception has occurred while executing the request
+System.ArgumentNullException: Value cannot be null.
+Parameter name: user
+   at Microsoft.AspNetCore.Identity.UserManager`1.GenerateUserTokenAsync(TUser user, String tokenProvider, String purpose)
+   at Microsoft.AspNetCore.Identity.UserManager`1.GenerateEmailConfirmationTokenAsync(TUser user)
+   at TicTacToe.Services.UserService.<GetEmailConfirmationCode>d__5.MoveNext() in C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\Services\UserService.cs:line 74
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at TicTacToe.Controllers.UserRegistrationController.<EmailConfirmation>d__6.MoveNext() in C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\Controllers\UserRegistrationController.cs:line 53
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextResourceFilter>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at TicTacToe.Middlewares.CommunicationMiddleware.<Invoke>d__2.MoveNext() in C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\Middlewares\CommunicationMiddleware.cs:line 59
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.<Invoke>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Session.SessionMiddleware.<Invoke>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Web.BrowserLink.BrowserLinkMiddleware.<ExecuteWithFilter>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+11/1/2018 4:07:51 AM 2 Information Request finished in 743.5464ms 500 text/html; charset=utf-8
+11/1/2018 4:09:23 AM 1 Information Request starting HTTP/1.1 GET http://localhost:59928/  
+11/1/2018 4:09:23 AM 1 Information Executing action method TicTacToe.Controllers.HomeController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:09:23 AM 1 Information Executing ViewResult, running view at path /Views/Home/Index.cshtml.
+11/1/2018 4:09:24 AM 2 Information Executed action TicTacToe.Controllers.HomeController.Index (TicTacToe) in 29.5721ms
+11/1/2018 4:09:24 AM 2 Information Request finished in 44.2819ms 200 text/html; charset=utf-8

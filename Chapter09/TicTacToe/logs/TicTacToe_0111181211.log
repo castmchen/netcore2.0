@@ -1,0 +1,136 @@
+11/1/2018 4:11:15 AM 0 Information User profile is available. Using 'C:\Users\qiang.c.chen\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+11/1/2018 4:11:58 AM 0 Information User profile is available. Using 'C:\Users\qiang.c.chen\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+11/1/2018 4:12:13 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/  
+11/1/2018 4:12:13 AM 2 Information Accessing expired session, Key:882fc83d-1e44-9f5c-2316-e3cd1904ce6d
+11/1/2018 4:12:14 AM 1 Information Executing action method TicTacToe.Controllers.HomeController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:12:20 AM 1 Information Executing ViewResult, running view at path /Views/Home/Index.cshtml.
+11/1/2018 4:12:25 AM 2 Information Executed action TicTacToe.Controllers.HomeController.Index (TicTacToe) in 11190.8589ms
+11/1/2018 4:12:25 AM 2 Information Request finished in 12291.1826ms 200 text/html; charset=utf-8
+11/1/2018 4:12:25 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/lib/bootstrap/dist/css/bootstrap.css  
+11/1/2018 4:12:25 AM 2 Information Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+11/1/2018 4:12:26 AM 2 Information Request finished in 216.9453ms 200 text/css
+11/1/2018 4:12:26 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/css/site.css  
+11/1/2018 4:12:26 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/lib/jquery/dist/jquery.js  
+11/1/2018 4:12:26 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/lib/bootstrap/dist/js/bootstrap.js  
+11/1/2018 4:12:26 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/js/site.js?v=21IBpBbqppOF8rdDufr6qdLtynLNd_8poj8ypvvI_Wk  
+11/1/2018 4:12:26 AM 2 Information Sending file. Request path: '/js/site.js'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\js\site.js'
+11/1/2018 4:12:27 AM 2 Information Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\lib\jquery\dist\jquery.js'
+11/1/2018 4:12:27 AM 2 Information Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+11/1/2018 4:12:27 AM 2 Information Sending file. Request path: '/css/site.css'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\css\site.css'
+11/1/2018 4:12:27 AM 2 Information Request finished in 1206.982ms 200 application/javascript
+11/1/2018 4:12:27 AM 2 Information Request finished in 1161.4563ms 200 application/javascript
+11/1/2018 4:12:27 AM 2 Information Request finished in 1275.4968ms 200 text/css
+11/1/2018 4:12:28 AM 2 Information Request finished in 1409.0586ms 200 application/javascript
+11/1/2018 4:12:28 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+11/1/2018 4:12:28 AM 2 Information Accessing expired session, Key:882fc83d-1e44-9f5c-2316-e3cd1904ce6d
+11/1/2018 4:12:28 AM 2 Information Request finished in 36.1228ms 404 text/plain
+11/1/2018 4:12:32 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/UserRegistration  
+11/1/2018 4:12:32 AM 2 Information Accessing expired session, Key:882fc83d-1e44-9f5c-2316-e3cd1904ce6d
+11/1/2018 4:12:32 AM 1 Information Executing action method TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:12:32 AM 1 Information Executing ViewResult, running view at path /Views/UserRegistration/Index.cshtml.
+11/1/2018 4:12:33 AM 2 Information Executed action TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) in 1065.4457ms
+11/1/2018 4:12:33 AM 2 Information Request finished in 1135.0354ms 200 text/html; charset=utf-8
+11/1/2018 4:13:26 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/lib/bootstrap/dist/css/bootstrap.css.map  
+11/1/2018 4:13:27 AM 2 Information Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css.map'. Physical path: 'C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map'
+11/1/2018 4:13:27 AM 2 Information Request finished in 853.6314ms 200 text/plain
+11/1/2018 4:14:56 AM 1 Information Request starting HTTP/1.1 POST http://localhost:5000/UserRegistration application/x-www-form-urlencoded 261
+11/1/2018 4:14:56 AM 2 Information Accessing expired session, Key:882fc83d-1e44-9f5c-2316-e3cd1904ce6d
+11/1/2018 4:14:56 AM 1 Information Executing action method TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:14:56 AM 14 Warning User (null) password validation failed: PasswordRequiresLower.
+11/1/2018 4:14:56 AM 1 Information Executing RedirectResult, redirecting to /UserRegistration/EmailConfirmation?Email=chenqiang_590@163.com.
+11/1/2018 4:14:56 AM 2 Information Executed action TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) in 210.6397ms
+11/1/2018 4:14:57 AM 2 Information Request finished in 352.8077ms 302 
+11/1/2018 4:14:57 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/UserRegistration/EmailConfirmation?Email=chenqiang_590@163.com  
+11/1/2018 4:14:57 AM 1 Information Executing action method TicTacToe.Controllers.UserRegistrationController.EmailConfirmation (TicTacToe) with arguments (chenqiang_590@163.com) - ModelState is Valid
+11/1/2018 4:14:57 AM 0 Information ##Start## Email confirmation process for chenqiang_590@163.com
+11/1/2018 4:14:57 AM 2 Information Executed action TicTacToe.Controllers.UserRegistrationController.EmailConfirmation (TicTacToe) in 307.3556ms
+11/1/2018 4:14:57 AM 0 Error An unhandled exception has occurred while executing the request
+System.ArgumentNullException: Value cannot be null.
+Parameter name: user
+   at Microsoft.AspNetCore.Identity.UserManager`1.GenerateUserTokenAsync(TUser user, String tokenProvider, String purpose)
+   at Microsoft.AspNetCore.Identity.UserManager`1.GenerateEmailConfirmationTokenAsync(TUser user)
+   at TicTacToe.Services.UserService.<GetEmailConfirmationCode>d__5.MoveNext() in C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\Services\UserService.cs:line 74
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at TicTacToe.Controllers.UserRegistrationController.<EmailConfirmation>d__6.MoveNext() in C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\Controllers\UserRegistrationController.cs:line 53
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextResourceFilter>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at TicTacToe.Middlewares.CommunicationMiddleware.<Invoke>d__2.MoveNext() in C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe\Middlewares\CommunicationMiddleware.cs:line 59
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.<Invoke>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Session.SessionMiddleware.<Invoke>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Web.BrowserLink.BrowserLinkMiddleware.<ExecuteWithFilter>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+11/1/2018 4:14:58 AM 2 Information Request finished in 1705.9393ms 500 text/html; charset=utf-8
+11/1/2018 4:15:04 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/UserRegistration  
+11/1/2018 4:15:04 AM 2 Information Accessing expired session, Key:882fc83d-1e44-9f5c-2316-e3cd1904ce6d
+11/1/2018 4:15:04 AM 1 Information Executing action method TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:15:04 AM 1 Information Executing ViewResult, running view at path /Views/UserRegistration/Index.cshtml.
+11/1/2018 4:15:05 AM 2 Information Executed action TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) in 615.0797ms
+11/1/2018 4:15:05 AM 2 Information Request finished in 674.9682ms 200 text/html; charset=utf-8
+11/1/2018 4:15:17 AM 1 Information Request starting HTTP/1.1 POST http://localhost:5000/UserRegistration application/x-www-form-urlencoded 257
+11/1/2018 4:15:17 AM 2 Information Accessing expired session, Key:882fc83d-1e44-9f5c-2316-e3cd1904ce6d
+11/1/2018 4:15:17 AM 1 Information Executing action method TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) with arguments ((null)) - ModelState is Valid
+11/1/2018 4:15:25 AM 14 Warning User (null) password validation failed: PasswordRequiresDigit.
+11/1/2018 4:16:10 AM 1 Information Executing RedirectResult, redirecting to /UserRegistration/EmailConfirmation?Email=chenqiang_590@163.com.
+11/1/2018 4:16:14 AM 2 Information Executed action TicTacToe.Controllers.UserRegistrationController.Index (TicTacToe) in 54030.5508ms
+11/1/2018 4:16:24 AM 2 Information Request finished in 64862.7382ms 302 
+11/1/2018 4:16:24 AM 1 Information Request starting HTTP/1.1 GET http://localhost:5000/UserRegistration/EmailConfirmation?Email=chenqiang_590@163.com  
+11/1/2018 4:16:24 AM 1 Information Executing action method TicTacToe.Controllers.UserRegistrationController.EmailConfirmation (TicTacToe) with arguments (chenqiang_590@163.com) - ModelState is Valid
+11/1/2018 4:16:31 AM 0 Information ##Start## Email confirmation process for chenqiang_590@163.com

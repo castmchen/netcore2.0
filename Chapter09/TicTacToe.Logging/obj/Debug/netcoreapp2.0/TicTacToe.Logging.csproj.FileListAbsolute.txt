@@ -1,0 +1,9 @@
+C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe.Logging\bin\Debug\netcoreapp2.0\TicTacToe.Logging.deps.json
+C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe.Logging\bin\Debug\netcoreapp2.0\TicTacToe.Logging.dll
+C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe.Logging\bin\Debug\netcoreapp2.0\TicTacToe.Logging.pdb
+C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe.Logging\obj\Debug\netcoreapp2.0\TicTacToe.Logging.csprojAssemblyReference.cache
+C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe.Logging\obj\Debug\netcoreapp2.0\TicTacToe.Logging.csproj.CoreCompileInputs.cache
+C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe.Logging\obj\Debug\netcoreapp2.0\TicTacToe.Logging.AssemblyInfoInputs.cache
+C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe.Logging\obj\Debug\netcoreapp2.0\TicTacToe.Logging.AssemblyInfo.cs
+C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe.Logging\obj\Debug\netcoreapp2.0\TicTacToe.Logging.dll
+C:\qiang.c.chen\Net-Core\9781788476638_Code\LearningASPNETCore2_Code\Chapter09\TicTacToe.Logging\obj\Debug\netcoreapp2.0\TicTacToe.Logging.pdb
